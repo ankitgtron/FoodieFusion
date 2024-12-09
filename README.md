@@ -3,9 +3,6 @@
 ## FoodieFusion
 ### **Overview:**
 
-**FoodieFusion:** is a food delivery application built using the MERN stack. The app includes user-friendly features such as secure authentication, dynamic menus, cart functionality, payment integration, and responsive design.
-
----
 
 ## **Mission and Objectives**
 
