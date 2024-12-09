@@ -58,6 +58,14 @@ Create a seamless food delivery app with real-time features, allowing users to e
    - **Why:** Provides scalable hosting for web applications.
    - **Use Case:** Deploying the backend, frontend, and database services to a live environment.
 
+   ![image](https://github.com/user-attachments/assets/515e6bb7-2e14-4996-a4d2-9483919104e4)
+![image](https://github.com/user-attachments/assets/1d55b4c2-c6b0-4c02-a3f1-f981bf6fc558)
+![image](https://github.com/user-attachments/assets/dfb7afa3-c459-4797-b6dd-589b1d11c7da)
+![image](https://github.com/user-attachments/assets/bafbbcd1-9cd7-4aa0-b0ad-fa9552bafa17)
+![image](https://github.com/user-attachments/assets/30b881c6-93cd-4dd8-91f7-dcc7b2101c58)
+![Screenshot (124)](https://github.com/user-attachments/assets/b245e1ae-40cd-4bf3-9a85-3bde77efa796)
+
+
 ---
 
 # Project Structure for Feature Implementation
@@ -173,4 +181,19 @@ Participants are encouraged to customize the user interface and incorporate addi
 - **Deliverables:**  
   - Live app accessible via a public URL.  
 
+**Checkout the screenshots for your references:**
+![Screenshot (122)](https://github.com/user-attachments/assets/8a8dbd11-3144-4cb5-86e9-6f552e086f70)
+![Screenshot (123)](https://github.com/user-attachments/assets/2d8dcd25-125e-4ac5-97c1-7ef798c87bc5)
+![Screenshot (114)](https://github.com/user-attachments/assets/73235506-a89d-446f-a753-1e32cfd8e356)
+![Screenshot (116)](https://github.com/user-attachments/assets/f0197c09-021c-4036-8dc2-abb2150c2dc5)
+![Screenshot (117)](https://github.com/user-attachments/assets/756b3b50-ba1b-40e1-8f65-8f3324b8bf37)
+![Screenshot (118)](https://github.com/user-attachments/assets/3cedef1f-468d-47f0-aa24-8942707ca7a1)
+![Screenshot (119)](https://github.com/user-attachments/assets/c2f10e8d-a45a-49a6-9c4e-9b74f7e395df)
+![Screenshot (121)](https://github.com/user-attachments/assets/958e328a-5a28-458c-9354-679b0a40b577)
+
+**The End**
 --- 
+
+# References:
+https://github.com/arshdeepsingh2267/Gofood
+
