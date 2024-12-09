@@ -87,10 +87,10 @@ Create a seamless food delivery app with real-time features, allowing users to e
 - **Tasks:**
   1. Design login and signup forms in React.
      - **Reading:** [React Forms Tutorial](https://react.dev/reference/react/forms)
-     - **Video:** [Creating Forms in React](https://www.youtube.com/watch?v=IKjvDPPG6bQ)  
+     - **Video:** [Creating Forms in React](https://www.youtube.com/results?search_query=creating+forms+in+react+js)  
   2. Implement JWT-based authentication in Express.
-     - **Reading:** [Understanding JWT](https://jwt.io/introduction/)  
-     - **Video:** [JWT in Node.js](https://www.youtube.com/watch?v=7Q17ubqLfaM)  
+     - **Reading:** [Understanding JWT]([https://jwt.io/introduction/](https://jwt.io/introduction/))  
+     - **Video:** [JWT in Node.js](https://www.youtube.com/watch?v=mbsmsi7l3r4)  
   3. Set up MongoDB schema for user credentials.
      - **Reading:** [MongoDB Schemas](https://mongoosejs.com/docs/guide.html)  
      - **Video:** [Mongoose Basics](https://www.youtube.com/watch?v=WDrU305J1yw)  
@@ -106,10 +106,10 @@ Create a seamless food delivery app with real-time features, allowing users to e
 - **Tasks:**
   1. Develop a MongoDB schema for menu items.
      - **Reading:** [Designing MongoDB Schemas](https://www.mongodb.com/docs/manual/data-modeling/)  
-     - **Video:** [Mongoose Schema and Models](https://www.youtube.com/watch?v=oWeLbVkACCU)  
+     - **Video:** [Mongoose Schema and Models](https://www.youtube.com/watch?v=DZBGEVgL2eE&t=30s)  
   2. Implement menu display and search functionality in React.
      - **Reading:** [React useEffect for Data Fetching](https://react.dev/reference/react/useEffect)  
-     - **Video:** [Search Bar in React](https://www.youtube.com/watch?v=RvhmfEl3qO4)  
+     - **Video:** [Search Bar in React](https://www.youtube.com/watch?v=sWVgMcz8Q44)  
 
 - **Deliverables:**  
   - Responsive menu display.  
@@ -122,7 +122,7 @@ Create a seamless food delivery app with real-time features, allowing users to e
 - **Tasks:**
   1. Develop a cart component in React.
      - **Reading:** [State Management in React](https://react.dev/reference/react/useState)  
-     - **Video:** [React Shopping Cart Tutorial](https://www.youtube.com/watch?v=lG0Ys-2d4MA)  
+     - **Video:** [React Shopping Cart Tutorial](https://www.youtube.com/watch?v=HptuMAUaNGk)  
   2. Create backend API for managing orders.
      - **Reading:** [Express Routes](https://expressjs.com/en/guide/routing.html)  
      - **Video:** [REST API in Node.js](https://www.youtube.com/watch?v=fgTGADljAeg)  
@@ -138,7 +138,7 @@ Create a seamless food delivery app with real-time features, allowing users to e
 - **Tasks:**
   1. Integrate Razorpay or Stripe API.
      - **Reading:** [Razorpay Integration Guide](https://razorpay.com/docs/)  
-     - **Video:** [Payment Gateway Integration](https://www.youtube.com/watch?v=4II8Ihbg4cM)  
+     - **Video:** [Payment Gateway Integration](https://www.youtube.com/watch?v=F1G8PiBh9Xw)  
   2. Add order confirmation and history features.
      - **Reading:** [React Context for State Management](https://react.dev/reference/react/Context)  
      - **Video:** [React State Management](https://www.youtube.com/watch?v=35lXWvCuM8o)  
@@ -154,10 +154,10 @@ Create a seamless food delivery app with real-time features, allowing users to e
 - **Tasks:**
   1. Test app features for bugs.
      - **Reading:** [Unit Testing in React](https://jestjs.io/)  
-     - **Video:** [Testing React Apps](https://www.youtube.com/watch?v=qI3U1tpF3i8)  
+     - **Video:** [Testing React Apps](https://www.youtube.com/watch?v=8Xwq35cPwYg&t=137s)  
   2. Deploy the app on Heroku or AWS.
      - **Reading:** [Deploying MERN Apps](https://www.mongodb.com/mern-stack)  
-     - **Video:** [Deploy MERN App](https://www.youtube.com/watch?v=6jqKPBOFr9s)  
+     - **Video:** [Deploy MERN App](https://www.youtube.com/watch?v=cVEOhgPziO8)  
 
 - **Deliverables:**  
   - Live app accessible via a public URL.  
