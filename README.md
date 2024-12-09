@@ -1,8 +1,9 @@
 ---
 
 ## FoodieFusion
-### **Overview:**
+FoodieFusion is a food delivery application built using the MERN stack. The app includes user-friendly features such as secure authentication, dynamic menus, cart functionality, payment integration, and responsive design.
 
+---
 
 ## **Mission and Objectives**
 
@@ -56,6 +57,16 @@ Create a seamless food delivery app with real-time features, allowing users to e
 1. **Heroku/AWS**
    - **Why:** Provides scalable hosting for web applications.
    - **Use Case:** Deploying the backend, frontend, and database services to a live environment.
+
+---
+
+# Project Structure for Feature Implementation
+This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic functionalities to advanced features.
+
+---
+
+**NOTE:**
+Participants are encouraged to customize the user interface and incorporate additional features into the application. These modifications allow participants to demonstrate creativity, improve usability, and enhance the functionality of the project. Such enhancements align with the project’s objective of fostering innovative thinking while providing a personalized learning experience.
 
 ---
 
