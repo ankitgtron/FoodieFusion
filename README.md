@@ -68,6 +68,41 @@ Create a seamless food delivery app with real-time features, allowing users to e
 
 ---
 
+### **Workflow Overview**
+This section illustrates the complete workflow for users, restaurants, and admins in the **FoodieFusion** application, covering all major functionalities such as food ordering, cart management, payment integration, and content administration.
+
+---
+
+### **Flowchart**
+This section provides a visual representation of the overall flow of the **FoodieFusion** application, including user registration, menu browsing, order placement, payment processing, and admin management.
+![diagram-export-12-12-2024-3_06_55-PM](https://github.com/user-attachments/assets/e7f0d782-aa04-4d60-b998-9504faba4093)
+
+
+---
+
+### **System Architecture**
+This section demonstrates the high-level architecture of the **FoodieFusion** app, showcasing the interaction between the frontend, backend, database, and external services like payment gateways for transactions and cloud services for menu images.
+![diagram-export-12-12-2024-3_05_21-PM](https://github.com/user-attachments/assets/35a33902-081e-40a3-a1dd-bd49fc781706)
+
+
+---
+
+### **Sequence Diagram**
+This section presents the sequence of interactions between the different components of the **FoodieFusion** application, including users, restaurants, the backend system, and the payment gateway.
+![diagram-export-12-12-2024-3_09_13-PM](https://github.com/user-attachments/assets/9bf438aa-b110-47e1-908c-38758ff26608)
+
+
+---
+
+### **Database Design**
+This section presents the database schema, highlighting the following:
+- The structure of **Users**, **Restaurants**, **Orders**, **Menus**, and **Payments** collections.
+- Relationships between collections (e.g., **userID** in Orders links to the Users collection, **restaurantID** links to the Restaurants collection).
+- ![diagram-export-12-12-2024-3_07_34-PM](https://github.com/user-attachments/assets/2f1f2761-93b3-45da-8aeb-69c386aa4ada)
+
+
+---
+
 # Project Structure for Feature Implementation
 This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic functionalities to advanced features.
 
